@@ -61,4 +61,4 @@ except:
 ```
 python3 exploit.py -u http://target.com/index.php?url=ref
 ```
-<img src="https://github.com/drcayber/CVE-2022-31814/temp">
+<img src="https://github.com/drcayber/CVE-2022-31814/blob/main/temp/cve.jpeg">
